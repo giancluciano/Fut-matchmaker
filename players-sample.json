@@ -1,18 +1,11 @@
 [
-    {"name":"Gian", "attack": 3, "defense": 3},
-    {"name":"Pedro", "attack": 3, "defense": 3},
-    {"name":"Feyh", "attack": 3, "defense": 3},
-    {"name":"Ramos", "attack": 3, "defense": 3},
-    {"name":"Leo", "attack": 3, "defense": 3},
-    {"name":"Freitas", "attack": 3, "defense": 3},
-    {"name":"Dudes", "attack": 3, "defense": 3},
-    {"name":"Xixa", "attack": 3, "defense": 3},
-    {"name":"Neto", "attack": 3, "defense": 3},
-    {"name":"Marley", "attack": 3, "defense": 3},
-    {"name":"Giox", "attack": 3, "defense": 3},
-    {"name":"Pereca", "attack": 3, "defense": 3},
-    {"name":"Wandeco", "attack": 3, "defense": 3},
-    {"name":"Miguel", "attack": 3, "defense": 3},
-    {"name":"BK", "attack": 3, "defense": 3},
-    {"name":"Marcelo", "attack": 3, "defense": 3}
+    {"name":"James", "attack": 2.27, "defense": 3.07},
+    {"name":"Lucas", "attack": 2.40, "defense": 4.07},
+    {"name":"Daniel", "attack": 4.00, "defense": 2.93},
+    {"name":"Jack", "attack": 3.47, "defense": 3.60},
+    {"name":"Leo", "attack": 3.40, "defense": 2.60},
+    {"name":"John", "attack": 2.60, "defense": 3.13},
+    {"name":"David", "attack": 2.93, "defense": 2.00},
+    {"name":"Julian", "attack": 3.80, "defense": 3.33},
+    {"name":"Dylan", "attack": 3.93, "defense": 4.20}
 ]
